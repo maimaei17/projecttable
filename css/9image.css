@@ -1,0 +1,13 @@
+table {
+    width: 800px;
+}
+table, tr, th, td {
+    border-style: dotted;
+    border: 8px solid pink;
+    border-collapse: collapse;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
